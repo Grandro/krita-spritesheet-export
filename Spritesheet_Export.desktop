@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=Spritesheet_Export
+X-Python-2-Compatible=false
+Name=Spritesheet Export
+Comment=Export animations to a spritesheet with a rich feature set.
